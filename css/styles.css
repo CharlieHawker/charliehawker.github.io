@@ -41,7 +41,7 @@ body {
 	color: #333;
 }
 
-.viewport__picture {
+.viewport__picture img {
 	width: 100px;
 	height: 100px;
 }
