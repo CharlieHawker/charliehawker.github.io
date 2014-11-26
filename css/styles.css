@@ -81,7 +81,7 @@ p strong {
 	font-weight: 500;
 }
 
-@media (min-width: 450px) and (orientation: portrait) {
+@media not handheld and (min-width: 450px) {
 	body {
 		background: #c0c0c0;
 		background: radial-gradient(circle farthest-corner at bottom left, #333, #999);
