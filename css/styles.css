@@ -77,6 +77,10 @@ p {
 	margin-bottom: 1rem;
 }
 
+p strong {
+	font-weight: 500;
+}
+
 @media (min-width: 450px) {
 	body {
 		background: #c0c0c0;
