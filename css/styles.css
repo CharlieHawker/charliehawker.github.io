@@ -33,7 +33,7 @@ body {
 
 .viewport__title span {
 	font-weight: 500;
-	color: #393;
+	color: #50E3C2;
 }
 
 .viewport__title a, .viewport__title a:visited {
@@ -51,10 +51,10 @@ body {
 }
 	
 .article a, .article a:visited {
-	color: #393;
+	color: #50E3C2;
 	font-weight: 400;
 	text-decoration: none;
-	border-bottom: 1px solid #393;
+	border-bottom: 1px solid #50E3C2;
 	white-space: nowrap;
 }
 
